@@ -12,3 +12,5 @@ Data Sources:
   https://qz.com/1735700/apple-and-disney-are-creating-an-explosion-of-tv-series-budgets/
   https://www.the-numbers.com/market/genre/
   
+PowerPoint:
+  https://docs.google.com/presentation/d/1CG3OASFAVVjJJdcpoXQ0qLniywL9EG6Ze-hT1SMd0hM/edit?usp=sharing
